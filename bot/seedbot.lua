@@ -271,32 +271,24 @@ function create_config( )
     "Webshot",
     "Welcome",
     "Who",
-    "Xy"
+    "Xy",
+    "InvPouria",
+    "InvAllen"
     },
-    sudo_users = {175636120},--Sudo users
+    sudo_users = {175636120,174770816},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
-
-https://github.com/SEEDTEAM/TeleSeed
+    about_text = [[Strong Bot Version 1.0
+An advance Administration bot based on SEEDTEAM/TeleSeed
 
 Our team!
-Alphonse (@Iwals)
-I M /-\ N (@Imandaneshi)
-Siyanew (@Siyanew)
-Rondoozle (@Potus)
-Seyedan (@Seyedan25)
 
-Special thanks to:
-Juan Potato
-Siyanew
-Topkecleon
-Vamptacus
+@Redteam_01_13 [Founder]
+
+@Allwen [Developer]
 
 Our channels:
-English: @TeleSeedCH
-Persian: @IranSeed
+@StrongTeam
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -368,6 +360,8 @@ This command will send text to [group_id]
 » Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
 » Only owner can use res,setowner,promote,demote and log commands
+
+» Only owner can use !invpouria or !invallen to invite sudo in group
 
 ]],
     help_text = [[
