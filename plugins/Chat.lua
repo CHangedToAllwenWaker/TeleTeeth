@@ -8,6 +8,15 @@ end
 if msg.text == "Khubi?" then
   return "merc to chetor?"
 end
+if msg.text == "slm" then
+  return "Salam"
+end
+if msg.text == "Slm" then
+  return "Salam"
+end
+if msg.text == "SLM" then
+  return "Salam"
+end
 if msg.text == "Salam" then
   return "Saaalam"
 end
@@ -68,8 +77,10 @@ return {
     "^?$",
     "^[Ss]alam$",
     "^[Bb]ax$",
-    "^سلام",
-    "^خوبی؟",
+    "^سلام$",
+    "^خوبی؟$",
+    "^[Ss]lm$",
+    "^SLM$",
     },
   run = run,
 }
