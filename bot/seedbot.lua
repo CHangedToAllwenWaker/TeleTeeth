@@ -275,7 +275,7 @@ function create_config( )
     "InvParsa",
     "InvAllen"
     },
-    sudo_users = {174770816},--Sudo users
+    sudo_users = {174770816,105831687},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Strong Bot Version 1.0
