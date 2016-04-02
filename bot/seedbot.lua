@@ -272,10 +272,10 @@ function create_config( )
     "Welcome",
     "Who",
     "Xy",
-    "InvPouria",
+    "InvParsa",
     "InvAllen"
     },
-    sudo_users = {175636120,174770816},--Sudo users
+    sudo_users = {174770816},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Strong Bot Version 1.0
@@ -283,9 +283,9 @@ An advance Administration bot based on SEEDTEAM/TeleSeed
 
 Our team!
 
-@Redteam_01_13 [Founder]
+@Allwen [Founder]
 
-@Allwen [Developer]
+@ParsaAlemi [Developer]
 
 Our channels:
 @StrongTeam
