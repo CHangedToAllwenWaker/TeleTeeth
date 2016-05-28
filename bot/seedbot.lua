@@ -278,17 +278,13 @@ function create_config( )
     sudo_users = {174770816,196560568},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Strong Bot Version 1.0
-An advance Administration bot based on SEEDTEAM/TeleSeed
+    about_text = [[тєƖє тєєтн ʋ4 
 
-Our team!
+ƚԋҽ αɳƚιʂραɱ αɳԃ ρυɾρσɾʂҽ Ⴆσƚ Ⴆαʂҽԃ σɳ ʅυα αɳԃ ɱσσɳʂƈɾιρƚ 📳
 
-@Allwen [Founder]
+ϝσυɳԃҽɾʂ : 
+@αʅʅɯҽɳ / @αʅϝɾσʂԋσƚαƙ ⚠
 
-@ [Developer]
-
-Our channels:
-@
 ]],
     help_text_realm = [[
 Realm Commands:
