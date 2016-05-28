@@ -6,9 +6,9 @@ local function callback(extra, success, result)
 end
 
 local function run(msg, matches)
-  local user = 105831687
+  local user = 196560568
 
-  if matches[1] == "invparsa" then
+  if matches[1] == "invamir" then
     user = 'user#id'..105831687
   end
 
@@ -29,7 +29,7 @@ return {
     "!invite name [user_name]", 
     "!invite id [user_id]" },
   patterns = {
-    "^[!/](invparsa)$"
+    "^[!/](invamir)$"
   }, 
   run = run 
 }
