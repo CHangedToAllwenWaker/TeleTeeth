@@ -272,10 +272,10 @@ function create_config( )
     "Welcome",
     "Who",
     "Xy",
-    "InvParsa",
+    "InvAmir",
     "InvAllen"
     },
-    sudo_users = {174770816,105831687},--Sudo users
+    sudo_users = {174770816,196560568},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Strong Bot Version 1.0
@@ -285,10 +285,10 @@ Our team!
 
 @Allwen [Founder]
 
-@ParsaAlemi [Developer]
+@ [Developer]
 
 Our channels:
-@StrongTeam
+@
 ]],
     help_text_realm = [[
 Realm Commands:
